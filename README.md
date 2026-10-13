@@ -13,9 +13,8 @@
 | Історія Majors | 157 |
 | Турніри та переможці | 54 |
 
-Активні склади та тренери: NAVI, Spirit, Vitality, Falcons, FaZe, G2, MOUZ, FURIA, Liquid, Astralis, HEROIC, B8, Aurora, PARIVISION, 1win, Ninjas in Pyjamas, fnatic, Virtus.pro, BC.Game — за HLTV на 13.10.2026. Monte: історичні факти й явна примітка про відсутність активної п’ятірки в перевіреному профілі. У питаннях про турніри також є fnatic, NIP, Virtus.pro, LDLC, Envy, Luminosity, SK, Gambit, Cloud9, Outsiders, ENCE, AVANGAR, GamerLegion та інші. Організація й країна гравця не ототожнюються; Aurora не названа українською організацією.
+Активні склади та тренери: NAVI, Spirit, Vitality, Falcons, FaZe, G2, MOUZ, FURIA, Liquid, Astralis, HEROIC, B8, Aurora, PARIVISION, 1win, Ninjas in Pyjamas, fnatic, Virtus.pro, BC.Game — за HLTV на 13.10.2026. Monte: історичні факти й явна примітка про відсутність активної п’ятірки в перевіреному профілі. У питаннях про турніри також є fnatic, NIP, Virtus.pro, LDLC, Envy, Luminosity, SK, Gambit, Cloud9, Outsiders, ENCE, AVANGAR, GamerLegion та інші.
 
-Немає нових питань про MVP або економіку/ігрові ролі. Старі спроби з вилученої теми залишаються в історії.
 
 ## Рівні та таймер
 
